@@ -10,6 +10,8 @@
   },
   "dependencies": {
     "@algolia/coquille": "^0.0.29",
+    "@codaworks/react-glow": "^1.0.3",
+    "@pixi/filter-glow": "^5.2.1",
     "fbjs": "^3.0.5",
     "isomorphic-fetch": "^3.0.0",
     "jquery": "^3.7.1",

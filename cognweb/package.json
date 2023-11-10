@@ -1,0 +1,31 @@
+{
+  "name": "cognweb",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@algolia/coquille": "^0.0.29",
+    "fbjs": "^3.0.5",
+    "isomorphic-fetch": "^3.0.0",
+    "jquery": "^3.7.1",
+    "jquery.terminal": "^2.37.2",
+    "next": "14.0.2",
+    "node-fetch": "^3.3.2",
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0",
+    "react-device-detect": "^2.2.3",
+    "react-dom": "^18.2.0",
+    "react-terminal": "^1.4.4",
+    "styled-components": "^6.1.1",
+    "xterm": "^5.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.0.2"
+  }
+}

@@ -5,7 +5,6 @@ import Navbar from '../components/Navbar.js'
 const Homepage = () => {
     return (
         <main className="homepage" >
-        <Navbar />
         <Terminal/> 
         </main>
     )
